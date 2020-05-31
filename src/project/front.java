@@ -33,7 +33,7 @@ import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 
 public class front  implements ActionListener{
-    //hello guys how r u?
+    //hello guys how r
 	static JFrame f;
 	private JTextField sid;
 	private JTextField spas;

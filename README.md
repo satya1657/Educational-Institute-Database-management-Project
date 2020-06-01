@@ -145,7 +145,7 @@ There are some important things which you should know about this project before 
           
  
 	       
-
+![flw of project](https://github.com/satya1657/Educational-Institute-Database-management-Project/blob/master/Flow%20of%20project.png)	       
 
  		
 

@@ -161,12 +161,42 @@ There are some important things which you should know about this project before 
 
    Front: This is a java class in this project where main function is present. I given its name Front because it is face of my project or  leading page. When you run it, it will give you a window, In this window you can login as a student or as a faculty etc.
    
+   If you are not a student you have to signup before login, you can sign up by clicking on the button named "here" in right hand upper corner. 
+  
+	CASE 1:  Login (with studentID and JEE roll number) as a student You will go into student home.
+          Student can look at courses given to him. (Read Only can not change)
+          Student can access Bus Schedule.(Read Only can not change)
+          Student Can access his result.(Read Only can not change)
+          Student can access There Academic time table.(Read Only can not change)
+          
+          
+   
+	CASE 2: login as Admin(with username, password and usertype) 
+           Admin can Access any thing
+
+
+
+	CASE 3 :   login as Faculty (with username, password and usertype)
+              Faculty will update marks and attendance of the class which is taught by him.
    
 
+	CASE 4: Login as Course Manager
+        Course Manager will update all course details, course enrollment of students, courses assign to faculty, faculty details. 
    
+	CASE 5: login as office Employee
+          Office Employ will register all the employee of the institute.
+    
+	CASE 6 : LOGIN as admission section
+            Student registration will done here.
    
-
-
+	CASE 7: login as hostel manager
+           Hostel manger will update information of students living in hostel.
+  
+  
+           
+	CASE 8: LOGIN as Bus manager
+           Bus Manager will update the bus schedule 
    
-       
+           
+                    
     
